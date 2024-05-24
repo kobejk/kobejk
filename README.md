@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, I'm Kobe 👋
+
+This is my GitHub account dedicated to the documentation of my technical projects. These repositories contain write-ups that showcase my practical work and anything interesting that I might be working on.
+
+### 🔭 I’m currently working on ...
+- Completing my Bachelors Degree in Cyber Security
+- Creating a blog with [Hugo](https://gohugo.io/)
+- Projects coming soon...
+
+### - 🌱 I’m currently learning ...
+- SIEM management (Splunk, Sentinel)
+- Python
+- ISC2 [Certified in Cyber Security](https://www.isc2.org/Certifications/CC)
+
+### - 📫 How to reach me: ...
+- [LinkedIn](linkedin.com/in/kobekunce)
+- [My Security Blog](kobekunce.com) 
 
 <!--
 **kobejk/kobejk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
