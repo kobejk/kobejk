@@ -2,9 +2,13 @@
 
 This is my GitHub account dedicated to the documentation of my technical projects. These repositories contain write-ups that showcase my practical work and anything interesting that I might be working on.
 
+### ⚡ Projects ...
+- My [Cyber Security Blog](https://kobejk.com)
+  - Created using the Static Site Generator [Hugo](https://gohugo.io/)
+  - https://github.com/kobejk/kobelog
+
 ### 🔭 I’m currently working on ...
 - Completing my Bachelors Degree in Cyber Security
-- Creating a blog with [Hugo](https://gohugo.io/)
 - Projects coming soon...
 
 ### - 🌱 I’m currently learning ...
@@ -14,7 +18,7 @@ This is my GitHub account dedicated to the documentation of my technical project
 
 ### - 📫 How to reach me: ...
 - [LinkedIn](linkedin.com/in/kobekunce)
-- [My Security Blog](kobekunce.com) 
+- [My Security Blog](kobejk.com) 
 
 <!--
 **kobejk/kobejk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
