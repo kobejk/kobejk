@@ -18,7 +18,6 @@ This is my GitHub account dedicated to the documentation of my technical project
 
 ### - 📫 How to reach me: ...
 - [LinkedIn](linkedin.com/in/kobekunce)
-- [My Security Blog](kobejk.com) 
 
 <!--
 **kobejk/kobejk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
