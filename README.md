@@ -5,7 +5,7 @@ This is my GitHub account dedicated to the documentation of my technical project
 ### ⚡ Projects ...
 - My [Cyber Security Blog](https://kobejk.com)
   - Created using the Static Site Generator [Hugo](https://gohugo.io/)
-  - https://github.com/kobejk/kobelog
+  - https://github.com/kobejk/blog
 
 ### 🔭 I’m currently working on ...
 - Completing my Bachelors Degree in Cyber Security
