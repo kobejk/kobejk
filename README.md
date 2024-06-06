@@ -1,12 +1,13 @@
 ## Hi, I'm Kobe 👋
 
-This is my GitHub account dedicated to the documentation of my technical projects. These repositories contain write-ups that showcase my practical work and anything interesting that I might be working on.
+I'm a security graduate and tech enthusiast.
 
 ### Projects
-- Astro Technology Blog
-  - https://github.com/kobejk/blog
-- Active Directory Domain Services
-  - https://github.com/kobejk/active-directory
+
+| Project                          	| Link                                       	|
+|----------------------------------	|--------------------------------------------	|
+| Astro Technology Blog            	| https://github.com/kobejk/blog             	|
+| Active Directory Domain Services 	| https://github.com/kobejk/active-directory 	|
 
 ### Get in touch
 
