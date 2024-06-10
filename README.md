@@ -1,6 +1,6 @@
 ## Hi, I'm Kobe 👋
 
-I'm a security graduate and tech enthusiast.
+I like to work with computers.
 
 ### Projects
 
