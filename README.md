@@ -6,7 +6,6 @@ I like to work with computers.
 
 | Project                          	| Link                                       	|
 |----------------------------------	|--------------------------------------------	|
-| Astro Technology Blog            	| https://github.com/kobejk/blog             	|
 | Active Directory Domain Services 	| https://github.com/kobejk/active-directory 	|
 
 ### Get in touch
