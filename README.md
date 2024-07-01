@@ -7,7 +7,7 @@ I like to work with computers.
 | Project                          	| Link                                       	|
 |----------------------------------	|--------------------------------------------	|
 | Active Directory Domain Services 	| https://github.com/kobejk/active-directory 	|
-| Challenge Writeups 	| https://github.com/kobejk/writeups 	|
+| Writeups 	| https://github.com/kobejk/writeups 	|
 
 ### Get in touch
 
