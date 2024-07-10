@@ -6,8 +6,8 @@ I like to work with computers.
 
 | Project                          	| Link                                       	|
 |----------------------------------	|--------------------------------------------	|
-| Active Directory Domain Services 	| https://github.com/kobejk/active-directory 	|
-| Writeups 	| https://github.com/kobejk/writeups 	|
+| Active Directory Domain Services Homelab 	| https://github.com/kobejk/active-directory 	|
+| Personal Website 	| https://github.com/kobejk/myblog 	|
 
 ### Get in touch
 
