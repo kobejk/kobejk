@@ -6,8 +6,9 @@ I like to work with computers.
 
 | Project                          	| Link                                       	|
 |----------------------------------	|--------------------------------------------	|
-| Active Directory Domain Services Homelab 	| https://github.com/kobejk/active-directory 	|
+| Active Directory Domain Services Homelab 	| https://github.com/kobejk/active-directory	|
 | Personal Website 	| https://github.com/kobejk/myblog 	|
+| pyjourney - a python journal 	| https://github.com/kobejk/pyjourney	|
 
 ### Get in touch
 
